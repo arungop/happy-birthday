@@ -16,13 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/arungop/happy-birthday.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
   "author": "Afiur Rahman Fahim",
+  "author": "Arun Gopinath"
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/faahim/happy-birthday/issues"
